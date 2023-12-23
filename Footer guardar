@@ -1,0 +1,23 @@
+<footer>
+      <div class="interface">
+        <div class="line-footer">
+          <div class="flex">
+              <div class="logo-footer">
+                <img src="../imagens/Arthur_Vinicius-removebg-preview.png" alt="">
+              </div>
+
+        </div><!--line-footer-->
+
+        <div class="line-footer borda">
+            <p><i class="bi bi-envelope"></i> <a href="mailto:arthurviniciusm.r.Coelhogmail.com"></a></p>
+        </div><!--line-footer-->
+
+        <div class="btn-social1">
+          <a href=""><button><i class="bi bi-whatsapp"></i></button></a>
+          <a href=""><button><i class="bi bi-instagram"></i></button></a>
+          <a href=""><button><i class="bi bi-github"></i></button></a>
+        </div><!--btn-social-->
+
+      </div><!--interface-->
+    </div>
+    </footer>
